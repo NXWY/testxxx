@@ -9,7 +9,7 @@
   * [技能开发 Java 版指南](https://github.com/Rokid/rokid-skill-sample/tree/master/rokid-skill-sample-java)
   * [基于 VS Code 的 Yeoman & 测试脚本](https://github.com/Rokid/generator-rokid/blob/master/generators/rfs)
   * [读取语音交互日志](2-RokidDocument/1-SkillsKit/test-skill-through-device-log.md) 
----------
+
 * Android 版
   * [修订记录](8-app/alliance/android/version.md)
   * [文档说明](8-app/alliance/android/summary.md)
@@ -17,13 +17,13 @@
   * [工程结构](8-app/alliance/android/resouce_summary.md)
   * [基础信息配置](8-app/alliance/android/config.md)
   * [注意事项](8-app/alliance/android/announcement.md)
----------
+
 * iOS 版
     * [修订记录](8-app/alliance/iOS/version.md)
     * [文档说明](8-app/alliance/iOS/summary.md)
     * [开发环境](8-app/alliance/iOS/develop.md)
     * [工程结构](8-app/alliance/iOS/resouce_summary.md)
----------
+
 * 平台指南和工具（参考）
     * [产品创建和sn导入流程](5-enableVoice/rokid-vsvy-sdk-docs/rookie-guide/rookie-guide-end.md)
     * [系统升级OTA](5-enableVoice/rokid-vsvy-sdk-docs/rookie-guide/ota.md) 
