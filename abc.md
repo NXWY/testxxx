@@ -1,7 +1,3 @@
-# Summary
----------
-技术文档
----------
 * 语音接入（云端和设备端）
   * [语音能力和硬件设计](2-RokidDocument/2-EnableVoice/rokid-hardware-design-guide.md)
   * [接口开发协议](3-ApiReference/openvoice-api.md)
