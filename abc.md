@@ -3,35 +3,9 @@
 技术文档
 ---------
 * 技能和内容接入
-  * [授权开通和配置](5-enableVoice/rokid-vsvy-sdk-docs/rookie-guide/skillstore.md) 
-    * [拦截器接口文档](3-ApiReference/rokid-interceptor.md)
-    * 头部技能开通流程
-        * [喜马拉雅技能开通流程](5-enableVoice/rokid-vsvy-sdk-docs/rookie-guide/ximalaya.md) 
-        * [叮当音乐技能开通流程](5-enableVoice/rokid-vsvy-sdk-docs/rookie-guide/dingdangmusic.md) 
-  * [技能平台新手引导](2-RokidDocument/1-SkillsKit/platform-introduction.md)  
-    * 重要概念
-        * [意图](2-RokidDocument/1-SkillsKit/important-concept/intend.md)
-        * [词表](2-RokidDocument/1-SkillsKit/important-concept/word-list.md)
-        * [用户语句](2-RokidDocument/1-SkillsKit/important-concept/usersays.md)
-        * [confirm](2-RokidDocument/1-SkillsKit/important-concept/confirm.md)
-        * [session](2-RokidDocument/1-SkillsKit/important-concept/session.md)
-        * [NLP 正则表达式](2-RokidDocument/1-SkillsKit/important-concept/regular-expression.md)
-    * [技能语音交互规范](2-RokidDocument/1-SkillsKit/rokid-voice-interaction-guidelines.md) 
-    * [平台创建技能流程](2-RokidDocument/1-SkillsKit/getting-started/creat.md)
-    * [自定义功能](2-RokidDocument/1-SkillsKit/more-fuction.md)  
-    * 技能审核和上线规范
-        * [技能发布标准](4-TermsAndAgreements/rokid-skill-release-standard.md)
-        * [技能审核规范](4-TermsAndAgreements/rokid-skill-examine-and-verify-standard.md)
-  * [技能开发](2-RokidDocument/1-SkillsKit/important-concept/cloud-app-development-protocol_cn.md)
-    * [Rokid Force System 使用指南](2-RokidDocument/1-SkillsKit/rokid-force-system-tutorial.md)
-    * [Rokid Force JS 使用指南](2-RokidDocument/1-SkillsKit/rokid-force-js-tutorial.md)
-    * [SSML 使用指南](2-RokidDocument/1-SkillsKit/ssml-document.md)
-    * [Rokid Oauth 使用指南](2-RokidDocument/1-SkillsKit/rokid-oauth.md)
-    * [喜马拉雅技能开发指南](2-RokidDocument/1-SkillsKit/rokid-ximalay.md)
-    * [获取 SSL 证书指南](2-RokidDocument/1-SkillsKit/get-SSL-certificate-tutorial.md)
-    * [技能开发 Java 版指南](https://github.com/Rokid/rokid-skill-sample/tree/master/rokid-skill-sample-java)
-    * [基于 VS Code 的 Yeoman & 测试脚本](https://github.com/Rokid/generator-rokid/blob/master/generators/rfs)
-    * [读取语音交互日志](2-RokidDocument/1-SkillsKit/test-skill-through-device-log.md) 
+  * [授权开通和配置](5-enableVoice/rokid-vsvy-sdk-docs/rookie-guide/skillstore.md)
+  * [技能平台新手引导](2-RokidDocument/1-SkillsKit/platform-introduction.md) 
+  * [技能开发](2-RokidDocument/1-SkillsKit/important-concept/cloud-app-development-protocol_cn.md) 
 
 * App 开发
     *  [Mobile SDK （厂商接入自有app）](5-enableVoice/rokid-vsvy-sdk-docs/mobliesdk/SDK.md)
@@ -52,7 +26,7 @@
             * [工程结构](8-app/alliance/iOS/resouce_summary.md)
             * [基础信息配置](8-app/alliance/iOS/config.md)
 * 平台使用说明
-  - [平台整体介绍](README.md) 
+  * [平台整体介绍](README.md) 
   * [产品创建和sn导入流程](5-enableVoice/rokid-vsvy-sdk-docs/rookie-guide/rookie-guide-end.md)
   * [系统升级OTA](5-enableVoice/rokid-vsvy-sdk-docs/rookie-guide/ota.md) 
   * [设备数据管理](5-enableVoice/rokid-vsvy-sdk-docs/rookie-guide/data.md)
