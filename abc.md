@@ -9,6 +9,20 @@
         	* [喜马拉雅技能开通流程](5-enableVoice/rokid-vsvy-sdk-docs/rookie-guide/ximalaya.md) 
         	* [叮当音乐技能开通流程](5-enableVoice/rokid-vsvy-sdk-docs/rookie-guide/dingdangmusic.md)
   * [技能平台新手引导](2-RokidDocument/1-SkillsKit/platform-introduction.md) 
+  	* 重要概念
+		* [意图](2-RokidDocument/1-SkillsKit/important-concept/intend.md)
+		* [词表](2-RokidDocument/1-SkillsKit/important-concept/word-list.md)
+		* [用户语句](2-RokidDocument/1-SkillsKit/important-concept/usersays.md)
+		* [confirm](2-RokidDocument/1-SkillsKit/important-concept/confirm.md)
+		* [session](2-RokidDocument/1-SkillsKit/important-concept/session.md)
+		* [NLP 正则表达式](2-RokidDocument/1-SkillsKit/important-concept/regular-expression.md)
+	* [技能语音交互规范](2-RokidDocument/1-SkillsKit/rokid-voice-interaction-guidelines.md) 
+    	* [平台创建技能流程](2-RokidDocument/1-SkillsKit/getting-started/creat.md)
+    	* [自定义功能](2-RokidDocument/1-SkillsKit/more-fuction.md)  
+    	* 技能审核和上线规范
+		* [技能发布标准](4-TermsAndAgreements/rokid-skill-release-standard.md)
+        	* [技能审核规范](4-TermsAndAgreements/rokid-skill-examine-and-verify-standard.md)
+    
   * [技能开发](2-RokidDocument/1-SkillsKit/important-concept/cloud-app-development-protocol_cn.md) 
 
 * App 开发
