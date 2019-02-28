@@ -24,6 +24,15 @@
         	* [技能审核规范](4-TermsAndAgreements/rokid-skill-examine-and-verify-standard.md)
     
   * [技能开发](2-RokidDocument/1-SkillsKit/important-concept/cloud-app-development-protocol_cn.md) 
+  	* [Rokid Force System 使用指南](2-RokidDocument/1-SkillsKit/rokid-force-system-tutorial.md)
+    	* [Rokid Force JS 使用指南](2-RokidDocument/1-SkillsKit/rokid-force-js-tutorial.md)
+    	* [SSML 使用指南](2-RokidDocument/1-SkillsKit/ssml-document.md)
+    	* [Rokid Oauth 使用指南](2-RokidDocument/1-SkillsKit/rokid-oauth.md)
+    	* [喜马拉雅技能开发指南](2-RokidDocument/1-SkillsKit/rokid-ximalay.md)
+    	* [获取 SSL 证书指南](2-RokidDocument/1-SkillsKit/get-SSL-certificate-tutorial.md)
+    	* [技能开发 Java 版指南](https://github.com/Rokid/rokid-skill-sample/tree/master/rokid-skill-sample-java)
+    	* [基于 VS Code 的 Yeoman & 测试脚本](https://github.com/Rokid/generator-rokid/blob/master/generators/rfs)
+    	* [读取语音交互日志](2-RokidDocument/1-SkillsKit/test-skill-through-device-log.md) 
 
 * App 开发
     *  [Mobile SDK （厂商接入自有app）](5-enableVoice/rokid-vsvy-sdk-docs/mobliesdk/SDK.md)
