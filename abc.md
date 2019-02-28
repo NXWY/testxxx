@@ -4,6 +4,10 @@
 ---------
 * 技能和内容接入
   * [授权开通和配置](5-enableVoice/rokid-vsvy-sdk-docs/rookie-guide/skillstore.md)
+  	* [拦截器接口文档](3-ApiReference/rokid-interceptor.md)
+    	* 头部技能开通流程
+        	* [喜马拉雅技能开通流程](5-enableVoice/rokid-vsvy-sdk-docs/rookie-guide/ximalaya.md) 
+        	* [叮当音乐技能开通流程](5-enableVoice/rokid-vsvy-sdk-docs/rookie-guide/dingdangmusic.md)
   * [技能平台新手引导](2-RokidDocument/1-SkillsKit/platform-introduction.md) 
   * [技能开发](2-RokidDocument/1-SkillsKit/important-concept/cloud-app-development-protocol_cn.md) 
 
