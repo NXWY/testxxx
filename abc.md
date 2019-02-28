@@ -4,22 +4,22 @@
 ---------
 * Rokid 智能家居
   * [方案输出](smarthome/README.md)
-  	* 行业解决方案
+  	- 行业解决方案
 		* [面向酒店](smarthome/hotel.md)
 		* [面向 ODM](smarthome/odm.md)
-	* [技能授权](smarthome/skills.md)
-    	* [智能家居H5配置界面](smarthome/mobile-user-app.md)
-    	* [智能家居开放接口（链接）](https://homebase-open.rokid.com/docs)
-    	* [智能家居隐身接入](rokid-homebase-docs/intro/sdk.md)
+	- [技能授权](smarthome/skills.md)
+    	- [智能家居H5配置界面](smarthome/mobile-user-app.md)
+    	- [智能家居开放接口（链接）](https://homebase-open.rokid.com/docs)
+    	- [智能家居隐身接入](rokid-homebase-docs/intro/sdk.md)
 		* [基于 JWT 签名的服务端授权](rokid-homebase-docs/connect/rfc7519.md)
   * [智能家居设备接入](rokid-homebase-docs/README.md)
-  	* [智能家居设备接入流程](rokid-homebase-docs/intro/flow.md)
-	* 开发指南
+  	- [智能家居设备接入流程](rokid-homebase-docs/intro/flow.md)
+	- 开发指南
 		* [云云对接](rokid-homebase-docs/connect/cloud-to-cloud.md)
       		* [局域网对接](rokid-homebase-docs/connect/via-lan.md)
       		* [RHOME 桌面版调试工具](rokid-homebase-docs/tools/rhome-desktop.md)
       		* [自定义接入](rokid-homebase-docs/tools/developer-driver.md)
-	* 智能家居协议(v2)
+	- 智能家居协议(v2)
 		* [技能授权](rokid-homebase-docs/connect/rfc6749.md)
 		* [消息格式参考](rokid-homebase-docs/v2/message-reference.md)
 		* 提供接口
@@ -31,10 +31,10 @@
 			* [终端能力与状态](rokid-homebase-docs/v2/rokid-interface.md)
 			* [当发生了错误](rokid-homebase-docs/v2/error-response.md)
 			* [设备房间](rokid-homebase-docs/v1/device/room-name.md)
-	* 智能家居 JSON RPC 协议
+	- 智能家居 JSON RPC 协议
 		* [局域网自动发现](rokid-homebase-docs/connect/ssdp-auto-discovery.md)
       		* [JSON RPC 控制协议](rokid-homebase-docs/connect/json-rpc-over-tcp.md)
-	* 智能家居协议(v1)
+	- 智能家居协议(v1)
 		* [HTTP 远程驱动](rokid-homebase-docs/connect/http-remote-driver.md)
 		* 设备描述
 			* [设备](rokid-homebase-docs/v1/device/device.md)
@@ -46,7 +46,7 @@
 		* 其他授权方式
 			* [Homebase OAuth 授权](rokid-homebase-docs/v1/oauth.md)
         		* [Homebase OAuth2.0 授权](rokid-homebase-docs/v1/OAuth2.0.md)
-	* 高级功能
+	- 高级功能
 		* [Webhook](rokid-homebase-docs/webhook/index.md)
   	
   * [FAQ](rokid-homebase-docs/faq.md)
